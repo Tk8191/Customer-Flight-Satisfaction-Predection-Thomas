@@ -1,2 +1,2 @@
-# Customer-Flight-Satisfaction-Predection-Thomas
+# Customer-Flight-Satisfaction-Prediction-Thomas
 Predicting customer satisfaction while traveling in flight.
