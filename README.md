@@ -3,12 +3,13 @@ The data set consists of information of passengers bording and debording and the
  **Train dataset:**
 The train set contains **83123** rows and **24** columns.
 **Test dataset:**
-The test set contains
+The test set contains **20781** rows and **23** columns.
 ![enter image description here](https://github.com/Tk8191/Customer-Flight-Satisfaction-Predection-Thomas/blob/main/Image2.png?raw=true)
 
 |Column| Description |
 |Id|Unique ID|
 | Gender | Gender of the passenger |
+| Satisfaction | If the passenger is satisfied or not |
 ![enter image description here](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmxpZ2h0fGVufDB8fDB8fA==&ixlib=rb-1.2.1&w=1000&q=80)
 
 You can check the notebook by clicking here:
